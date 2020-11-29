@@ -32,7 +32,12 @@ Goal: Our assignment will provide students with the foundations of gradient desc
 - When to use certain loss functions? (Squared-Loss, L2 regularization, logistic loss)
 - Ask them to compute gradients of these losses - maybe generate plots of squared-loss v.s. Regularized loss
 
-6. Lastly, students explore different variations of gradient descent (Rohith)
+6. Lastly, students explore different variations of gradient descent
 - https://ruder.io/optimizing-gradient-descent/
 - Show some specific cases where accelerated GD/GD with momentum does much better
 - AdamOptimizer
+
+II. How to Navigate Quiz Questions/Coding Assignment:
+- Quiz questions and the coding assignment have been implemented in Google Colab.
+- Simply navigate to the links for the google colab included in this repository.
+- This repository also contains the full solutions which are also in colab.
