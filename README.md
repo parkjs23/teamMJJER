@@ -11,12 +11,12 @@ Goal: Our assignment will provide students with the foundations of gradient desc
 - Saddle Points, Local/Global Maxima/Minima
 
 2. Introduction to Gradient Descent
-- Establish graphical intuition/visualizations of reg GD
+- Establish graphical intuition/visualizations
 - Define different parameters and discuss how to tune them
 - Learning Rate (Explore different behaviors of convergence)
 - Introduce Batch gradient descent, mini-batch)
 
-3. Stochastic Gradient Descent (include visualization of SGD) (Emily)
+3. Stochastic Gradient Descent
 - SGD: Explanation and Motivation, why it is necessary
 - Pros and Cons of SGD
 - Briefly establish bounds on convergence
