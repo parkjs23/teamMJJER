@@ -1,7 +1,7 @@
 # teamMJJER
-##Topic: Stochastic Gradient Descent
+## Topic: Stochastic Gradient Descent
 
-###I. Overall Learning Objectives:
+### I. Overall Learning Objectives:
 
 Goal: Our assignment will provide students with the foundations of gradient descent with a primary focus on stochastic gradient descent (SGD). In the coding assignment, students will implement and explore various properties of SGD (learning rate, batch size) and its performance on various loss functions. They will work with real data to practice their technical skills and to motivate variations to explore in different situations. Additionally, they will be introduced to variations on the gradient descent algorithm.
 
@@ -38,7 +38,7 @@ Goal: Our assignment will provide students with the foundations of gradient desc
 - Show some specific cases where accelerated GD/GD with momentum does much better
 - AdamOptimizer
 
-###II. How to Navigate Quiz Questions/Coding Assignment:
+### II. How to Navigate Quiz Questions/Coding Assignment:
 - Quiz questions and the coding assignment have been implemented in Google Colab.
 - Simply navigate to the links for the google colab included in this repository.
 - This repository also contains the full solutions which are also in colab.
