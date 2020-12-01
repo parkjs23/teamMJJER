@@ -20,7 +20,6 @@ Goal: Our assignment will provide students with the foundations of gradient desc
 - SGD: Explanation and Motivation, why it is necessary
 - Pros and Cons of SGD
 - Briefly establish bounds on convergence
-- Show this by demonstrating exponential convergence for step sizes within a certain range/ divergence for step sizes that are too large
 
 4. Teach students how to implement SGD in sklearn, using built in functions and compare with student implementation
 - Introduction to sklearn (relevant methods used in practice)
