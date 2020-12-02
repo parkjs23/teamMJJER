@@ -36,6 +36,7 @@ Goal: Our assignment will provide students with the foundations of gradient desc
 - https://ruder.io/optimizing-gradient-descent/
 - Show some specific cases where accelerated GD/GD with momentum does much better
 - AdamOptimizer
+(Specific learning goals for the Coding Assignment can be found at the start of the coding assignment)
 
 ### II. How to Navigate Quiz Questions/Coding Assignment:
 - Quiz questions and the coding assignment have been implemented in Google Colab.
