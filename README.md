@@ -42,5 +42,6 @@ Goal: Our assignment will provide students with the foundations of gradient desc
 
 ### II. How to Navigate Quiz Questions/Coding Assignment:
 - Quiz questions and the Coding Assignment have been implemented in Google Colab.
+**** Note: Some solutions do not appear in the github preview of the files, please download the .ipynb files and view in jupyter or colab to see all solutions ****
 - The quiz and project .ipynb files are located in this repository.
 - Download the files, then either use them locally with jupyter notebook or upload them to Google Drive and select open with Google Colab.
